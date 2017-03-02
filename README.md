@@ -1,8 +1,6 @@
 # Neural_Network_practice
 Practice in Neural Network programming.
 
-##Self-written algorithm Backpropagation
-##Investigation of 
 File              | Description
 ----------------|----------------------
 Backpropagation              | Self-written algorithm Backpropagation, tested on MNIST dataset
